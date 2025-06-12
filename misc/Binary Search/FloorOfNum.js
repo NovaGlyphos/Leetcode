@@ -1,3 +1,6 @@
+// Notes: 
+// Floor of a number denotes a greatest no. that is smaller or equal to the target
+
 
 const Floor = (arr,target) => {
     let start = 0;
